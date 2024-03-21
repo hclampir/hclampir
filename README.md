@@ -2,9 +2,8 @@
 - Aprender mais
 - Github
 - Programação
-  -RO
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- RO
+  
 
 <!---
 hclampir/hclampir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
